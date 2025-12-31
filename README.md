@@ -21,6 +21,7 @@ This project showcases the end-to-end process of containerizing a Python Flask a
 5. **Production Deployment:** Pulled the image from Docker Hub onto the AWS server and launched the container.
 
 ## 📸 Proof of Concept
+![Deployment Screenshot](deployment-screenshot.png)
 I successfully verified the deployment by accessing the AWS Public IP.
 > **Status:** Running inside container: `c9bfb43247c0`
 
