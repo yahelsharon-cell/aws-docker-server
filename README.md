@@ -32,4 +32,4 @@ I successfully verified the deployment by accessing the AWS Public IP.
 * **Troubleshooting:** Resolving virtualization conflicts and managing Git authentication tokens.
 
 * ## Acknowledgments
-This project was developed with the assistance of AI tools (Gemini/ChatGPT) for troubleshooting Kubernetes configurations and generating documentation.
+This project was developed with the assistance of AI tools (Gemini) for troubleshooting and generating documentation.
