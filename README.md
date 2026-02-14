@@ -30,3 +30,6 @@ I successfully verified the deployment by accessing the AWS Public IP.
 * **AWS Networking:** Configuring Security Groups (firewalls) to allow web traffic.
 * **Linux Administration:** Navigating remote servers via SSH and managing the Docker Engine CLI.
 * **Troubleshooting:** Resolving virtualization conflicts and managing Git authentication tokens.
+
+* ## Acknowledgments
+This project was developed with the assistance of AI tools (Gemini/ChatGPT) for troubleshooting Kubernetes configurations and generating documentation.
